@@ -1,0 +1,236 @@
+{
+  "RIKKU-MIX.description": "",
+  "RIKKU-MIX.title": "Mix",
+
+  "RIKKU-STEAL.description": "Draw {Cards:diff()} {Cards:plural:card|cards}.",
+  "RIKKU-STEAL.title": "Steal",
+
+  "RIKKU-STASH.description": "The next [gold]Potion[/gold] you use is not consumed.",
+  "RIKKU-STASH.title": "Stash",
+
+  "RIKKU-STRIKE_RIKKU.description": "Deal {Damage:diff()} damage.",
+  "RIKKU-STRIKE_RIKKU.title": "Strike",
+
+  "RIKKU-DEFEND_RIKKU.description": "Gain {Block:diff()} [gold]Block[/gold].",
+  "RIKKU-DEFEND_RIKKU.title": "Defend",
+  
+  "RIKKU-HAND_OF_MIDAS.description": "The next 3 [gold]Potions[/gold] you use are not consumed.",
+  "RIKKU-HAND_OF_MIDAS.title": "Hand Of Midas",
+  
+  "RIKKU-UNSTABLE_CONCOCTION.title": "Unstable Concoction",
+  "RIKKU-UNSTABLE_CONCOCTION.description": "Deal 1 – {Damage:diff()} damage. \nIf you have 4 or more Potions, always deal maximum damage.",
+  
+  "RIKKU-MERCY_STROKE.title": "Mercy Stroke",
+  "RIKKU-MERCY_STROKE.description": "Deal {Damage:diff()} damage. \nDeal additional damage equal to {GoldScaling:diff()}% of the [gold]Gold[/gold] stolen from this enemy.",
+
+  "RIKKU-MUG.description": "Deal {Damage:diff()} damage.",
+  "RIKKU-MUG.title": "Mug",
+  
+  "RIKKU-SOUL_SWIPE.title": "Soul Swipe",
+  "RIKKU-SOUL_SWIPE.description": "Deal {Damage:diff()} damage. \nThe first time you use this card on each enemy, Heal for 50% of the damage dealt.",
+  
+  "RIKKU-TRICKS_OF_THE_TRADE.title": "Tricks of the Trade",
+  "RIKKU-TRICKS_OF_THE_TRADE.description": "Deal {Damage:diff()} damage 2 times. \nOnce per combat, procure a random [gold]Mixable Potion[/gold]. If you have no Potions, procure 2 instead.",
+  
+  "RIKKU-GRENADE.title": "Grenade",
+  "RIKKU-GRENADE.description": "Deal {Damage:diff()} damage to ALL enemies. \n{PotionIcon}: Hit 2 additional times.",
+
+  "RIKKU-SPARE_CHANGE.title": "Spare Change",
+  "RIKKU-SPARE_CHANGE.description": "Spend {GoldCost:diff()} [gold]Gold[/gold]. \nDeal {Damage:diff()} damage.",
+  
+  "RIKKU-SALVAGE_BLOW.title": "Salvage Blow",
+  "RIKKU-SALVAGE_BLOW.description": "Deal {Damage:diff()} damage. \n{PotionIcon}: Procure 2 random [gold]Mixable Potions[/gold].",
+
+  "RIKKU-DOUBLE_CROSS.title": "Double Cross",
+  "RIKKU-DOUBLE_CROSS.description": "Deal {Damage:diff()} damage {HitCount:diff()} times. \nIf you have played a card with [gold]Steal[/gold] this turn, this card costs 0 {energyPrefix:energyIcons(1)} .",
+
+  "RIKKU-ANKLEBREAKER.title": "Anklebreaker",
+  "RIKKU-ANKLEBREAKER.description": "Deal {Damage:diff()} damage. \nApply {VulnerablePower:diff()} [gold]Vulnerable[/gold].",
+
+  "RIKKU-CHEAP_SHOT.title": "Cheap Shot",
+  "RIKKU-CHEAP_SHOT.description": "Deal {Damage:diff()} damage. \nPlay a random card with [gold]Steal[/gold] from your draw pile.",
+
+  "RIKKU-HIGH_ROLLER.title": "High Roller",
+  "RIKKU-HIGH_ROLLER.description": "Deal {Damage:diff()} damage {HitCount:diff()} times.",
+
+  "RIKKU-AL_BHED_ASSAULT.title": "Al-Bhed Assault",
+  "RIKKU-AL_BHED_ASSAULT.description": "Deal {Damage:diff()} damage. \nGain {Overdrive:diff()} [gold]Overdrive[/gold]. \nReduce this card's cost to 0 {energyPrefix:energyIcons(1)}.",
+
+  "RIKKU-FORCE_HUNT.title": "Force Hunt",
+  "RIKKU-FORCE_HUNT.description": "Deal {Damage:diff()} damage. \n[gold]Steal[/gold] {StealPercent:diff()}% of this enemy's remaining stealable [gold]Gold[/gold].",
+
+  "RIKKU-DOUBLE_DIP.title": "Double Dip",
+  "RIKKU-DOUBLE_DIP.description": "Deal {Damage:diff()} damage. \n[gold]Steal[/gold] [gold]Gold[/gold] equal to the amount already stolen from this enemy.",
+
+  "RIKKU-GRAND_LARCENY.title": "Grand Larceny",
+  "RIKKU-GRAND_LARCENY.description": "Deal {Damage:diff()} damage. \nCosts 1 {energyPrefix:energyIcons(1)} less for each card with [gold]Steal[/gold] played this combat.",
+
+  "RIKKU-ITEM_MASTER.title": "Item Master",
+  "RIKKU-ITEM_MASTER.description": "Deal {CalculatedDamage:diff()} damage. \nDeal {ExtraDamage:diff()} additional damage for each [gold]Potion[/gold] you currently hold.",
+
+  "RIKKU-REVERSAL.title": "Reversal",
+  "RIKKU-REVERSAL.description": "Deal {Damage:diff()} damage. \nIf you have {HpThreshold:diff()}% HP or less, hit 2 additional times.",
+
+  "RIKKU-ARMED_ROBBERY.title": "Armed Robbery",
+  "RIKKU-ARMED_ROBBERY.description": "Deal {Damage:diff()} damage for each card with [gold]Steal[/gold] played this turn.{InCombat:\n(Hits {CalculatedHits:diff()} {CalculatedHits:plural:time|times})|}",
+
+  "RIKKU-SNEAK_ATTACK.title": "Sneak Attack",
+  "RIKKU-SNEAK_ATTACK.description": "Deal {Damage:diff()} damage. \nCosts 0 {energyPrefix:energyIcons(1)} if you have not played a card this turn.",
+
+  "RIKKU-OPPORTUNIST.title": "Opportunist",
+  "RIKKU-OPPORTUNIST.description": "Deal {Damage:diff()} damage. \nGain {OpportunistPower:diff()} [gold]Block[/gold] whenever you play a card with [gold]Steal[/gold] this turn.",
+
+  "RIKKU-THROW.title": "Throw",
+  "RIKKU-THROW.description": "Discard all [gold]Potions[/gold]. \nDeal {DamagePerPotion:diff()} damage for each [gold]Potion[/gold] discarded. Double this damage if you discard more than 3 [gold]Potions[/gold].",
+
+  "RIKKU-PAYBACK.title": "Payback",
+  "RIKKU-PAYBACK.description": "Deal damage equal to the total [gold]Gold[/gold] stolen from ALL enemies. \n{InCombat:(Deals {CalculatedDamage:diff()} damage)|}",
+
+  "RIKKU-SUNBURST.title": "Sunburst",
+  "RIKKU-SUNBURST.description": "{PotionIcon}: Remove all [gold]Block[/gold] and [gold]Artifact[/gold] and apply {VulnerablePower:diff()} [gold]Vulnerable[/gold] to ALL enemies. \nDeal {Damage:diff()} damage to ALL enemies.",
+
+  "RIKKU-QUICK_CLAW.title": "Quick Claw",
+  "RIKKU-QUICK_CLAW.description": "Deal {Damage:diff()} damage. \nDraw {Cards:diff()} {Cards:plural:card|cards}.",
+
+  "RIKKU-DIRTY_TRICK.title": "Dirty Trick",
+  "RIKKU-DIRTY_TRICK.description": "Deal {Damage:diff()} damage. \nApply {WeakPower:diff()} [gold]Weak[/gold].",
+
+  "RIKKU-MARKED_FOR_DEATH.title": "Marked for Death",
+  "RIKKU-MARKED_FOR_DEATH.description": "Deal {Damage:diff()} damage. \nIf this enemy's HP is less than the [gold]Gold[/gold] stolen from it, kill it.",
+
+  "RIKKU-CUTPURSE.title": "Cutpurse",
+  "RIKKU-CUTPURSE.description": "Deal {Damage:diff()} damage and [gold]Steal[/gold] {IfUpgraded:show:X+1|X} times.",
+
+  "RIKKU-LUCK.title": "Luck",
+  "RIKKU-LUCK.description": "Gain 1–4 [gold]Strength[/gold] and 1–4 [gold]Dexterity[/gold] this turn.",
+
+  "RIKKU-SHOPLIFT.title": "Shoplift",
+  "RIKKU-SHOPLIFT.description": "Gain {Block:diff()} [gold]Block[/gold].",
+
+  "RIKKU-DECOY.title": "Decoy",
+  "RIKKU-DECOY.description": "Gain {Block:diff()} [gold]Block[/gold]. \nApply {WeakPower:diff()} [gold]Weak[/gold].",
+
+  "RIKKU-DOUBLE_DOWN.title": "Double Down",
+  "RIKKU-DOUBLE_DOWN.description": "Gain {Block:diff()} [gold]Block[/gold]. \nIf you have played a card with [gold]Steal[/gold] this turn, gain [gold]Block[/gold] another time.",
+
+  "RIKKU-ULTRA_POTION.title": "Ultra Potion",
+  "RIKKU-ULTRA_POTION.description": "Gain {energyPrefix:energyIcons(1)}. \nDraw {Cards:diff()} {Cards:plural:card|cards}. \n{PotionIcon}: Gain {energyPrefix:energyIcons(2)}.",
+
+  "RIKKU-LUCK_OF_THE_DRAW.title": "Luck of the Draw",
+  "RIKKU-LUCK_OF_THE_DRAW.description": "Draw 1 card. \nIf the drawn card is a [blue]Skill[/blue], procure a random [gold]Mixable Potion[/gold].",
+
+  "RIKKU-SWIPE.title": "Swipe",
+  "RIKKU-SWIPE.description": "Apply {WeakPower:diff()} [gold]Weak[/gold].",
+
+  "RIKKU-BORROWED_TIME.title": "Borrowed Time",
+  "RIKKU-BORROWED_TIME.description": "Gain {Energy:diff()} {energyPrefix:energyIcons(1)}.",
+
+  "RIKKU-HOARD.title": "Hoard",
+  "RIKKU-HOARD.description": "Draw 1 card for each Potion you currently hold.",
+
+  "RIKKU-ABUNDANCE.title": "Abundance",
+  "RIKKU-ABUNDANCE.description": "Gain 1 [gold]Strength[/gold] for each Potion you currently hold.",
+
+  "RIKKU-STEAL_WILL.title": "Steal Will",
+  "RIKKU-STEAL_WILL.description": "Apply {VulnerablePower:diff()} [gold]Vulnerable[/gold].",
+
+  "RIKKU-PILFER_GIL.title": "Pilfer Gil",
+  "RIKKU-PILFER_GIL.description": "[gold]Steal[/gold] {HitCount:diff()} times.",
+
+  "RIKKU-BRIBE.title": "Bribe",
+  "RIKKU-BRIBE.description": "Spend {GoldCost:diff()} [gold]Gold[/gold]. \nProcure a random [gold]Mixable Potion[/gold].",
+
+  "RIKKU-STICKY_SITUATION.title": "Sticky Situation",
+  "RIKKU-STICKY_SITUATION.description": "Gain {Block:diff()} [gold]Block[/gold]. \nCosts 1 {energyPrefix:energyIcons(1)} less for every 25% of [gold]Max HP[/gold] missing.",
+
+  "RIKKU-ESCAPE.title": "Escape",
+  "RIKKU-ESCAPE.description": "Draw {Cards:diff()} {Cards:plural:card|cards}.",
+
+  "RIKKU-AL_BHED_POTION.title": "Al Bhed Potion",
+  "RIKKU-AL_BHED_POTION.description": "Heal {Heal:diff()} HP. \n{PotionIcon}: Double the Heal.",
+
+  "RIKKU-INSTALMENT.title": "Instalment",
+  "RIKKU-INSTALMENT.description": "Gain {Block:diff()} [gold]Block[/gold]. \nNext turn, gain {BlockNextTurn:diff()} [gold]Block[/gold].",
+
+  "RIKKU-THIEFS_INSTINCT.title": "Thief's Instinct",
+  "RIKKU-THIEFS_INSTINCT.description": "Gain {Block:diff()} [gold]Block[/gold]. \nDraw {Cards:diff()} {Cards:plural:card|cards}.",
+
+  "RIKKU-NIMBLE_GUARD.title": "Nimble Guard",
+  "RIKKU-NIMBLE_GUARD.description": "Gain {Block:diff()} [gold]Block[/gold].",
+
+  "RIKKU-PICKPOCKET.title": "Pickpocket",
+  "RIKKU-PICKPOCKET.description": "[gold]Steal[/gold] from ALL enemies.",
+
+  "RIKKU-SLEIGHT_OF_HAND.title": "Sleight of Hand",
+  "RIKKU-SLEIGHT_OF_HAND.description": "After consuming your next [gold]Potion[/gold], procure a random [gold]Mixable Potion[/gold].",
+
+  "RIKKU-GOLDEN_OPPORTUNITY.title": "Golden Opportunity",
+  "RIKKU-GOLDEN_OPPORTUNITY.description": "Your next Skill costs 0 {energyPrefix:energyIcons(1)}. \nIf you have played a card with [gold]Steal[/gold] this turn, your next Attack also costs 0 {energyPrefix:energyIcons(1)}.",
+
+  "RIKKU-ESCAPE_ARTIST.title": "Escape Artist",
+  "RIKKU-ESCAPE_ARTIST.description": "Gain {Block:diff()} [gold]Block[/gold]. \nNext turn, gain {Energy:diff()} {energyPrefix:energyIcons(1)}.",
+
+  "RIKKU-COPYCAT.title": "Copycat",
+  "RIKKU-COPYCAT.description": "Choose a card from your discard pile and add it to your hand. \n{IfUpgraded:show:Upgrade it. |}It costs 0 {energyPrefix:energyIcons(1)} this turn.",
+  "RIKKU-COPYCAT.selectionScreenPrompt": "Choose a card to put into your [gold]Hand[/gold].",
+
+  "RIKKU-STRENGTH_DRAIN.title": "Strength Drain",
+  "RIKKU-STRENGTH_DRAIN.description": "The enemy loses {StrengthDrainGainPower:diff()} [gold]Strength[/gold] this turn. \nGain {StrengthDrainGainPower:diff()} [gold]Strength[/gold] this turn.",
+
+  "RIKKU-DEFENSIVE_TRAINING.title": "Defensive Training",
+  "RIKKU-DEFENSIVE_TRAINING.description": "Gain {Block:diff()} [gold]Block[/gold]. \nGain {Overdrive:diff()} [gold]Overdrive[/gold].",
+
+  "RIKKU-EQUIVALENT_EXCHANGE.title": "Equivalent Exchange",
+  "RIKKU-EQUIVALENT_EXCHANGE.description": "Fill all empty Potion slots with random [gold]Mixable Potions[/gold]. \nAt the end of combat, lose all your Potions.",
+
+  "RIKKU-USE.title": "Use",
+  "RIKKU-USE.description": "Procure and immediately use a random [gold]Mixable Potion[/gold].",
+
+  "RIKKU-LUCKY_GIRL.title": "Lucky Girl",
+  "RIKKU-LUCKY_GIRL.description": "Whenever you play a card with [gold]Steal[/gold], draw 1 card.",
+
+  "RIKKU-MASTER_THIEF.title": "Master Thief",
+  "RIKKU-MASTER_THIEF.description": "At the end of combat, gain 1 additional [gold]Potion[/gold] reward.",
+
+  "RIKKU-GILLIONAIRE.title": "Gillionaire",
+  "RIKKU-GILLIONAIRE.description": "At the end of combat, gain {GillionairePower:diff()} [gold]Gold[/gold].",
+
+  "RIKKU-STICKY_FINGERS.title": "Sticky Fingers",
+  "RIKKU-STICKY_FINGERS.description": "Whenever you [gold]Steal[/gold] from an enemy, deal {StickyFingersPower:diff()} damage to it.",
+
+  "RIKKU-DRIVE_BOOST.title": "Drive Boost",
+  "RIKKU-DRIVE_BOOST.description": "At the start of each turn, gain {DriveBoostPower:diff()} [gold]Overdrive[/gold].",
+
+  "RIKKU-ELEMENTALIST.title": "Elementalist",
+  "RIKKU-ELEMENTALIST.description": "Mixable Potions deal {ElementalistPower:diff()}% more damage.",
+
+  "RIKKU-CHEMIST.title": "Chemist",
+  "RIKKU-CHEMIST.description": "The first time you procure or use a Potion each turn, gain {ChemistPower:diff()} {energyPrefix:energyIcons(1)}.",
+
+  "RIKKU-BANDIT.title": "Bandit",
+  "RIKKU-BANDIT.description": "At the start of each turn, gain {BanditPower:diff()} [gold]Gold[/gold].",
+
+  "RIKKU-DAYLIGHT_ROBBERY.title": "Daylight Robbery",
+  "RIKKU-DAYLIGHT_ROBBERY.description": "Whenever you [gold]Steal[/gold], steal {DaylightRobberyPower:diff()} additional [gold]Gold[/gold].",
+
+  "RIKKU-DOUBLE_DOSE.title": "Double Dose",
+  "RIKKU-DOUBLE_DOSE.description": "The first Potion you use each turn is used twice.",
+
+  "RIKKU-DEEP_POCKETS.title": "Deep Pockets",
+  "RIKKU-DEEP_POCKETS.description": "Whenever you play a card with [gold]Steal[/gold], gain {DeepPocketsPower:diff()} [gold]Strength[/gold].",
+
+  "RIKKU-STOCKPILE.title": "Stockpile",
+  "RIKKU-STOCKPILE.description": "Whenever you play a Power, procure a random [gold]Mixable Potion[/gold].",
+
+  "RIKKU-THE_LAST_GUARDIAN.title": "The Last Guardian",
+  "RIKKU-THE_LAST_GUARDIAN.description": "Gain {DexterityPower:diff()} [gold]Dexterity[/gold].",
+
+  "RIKKU-QUICK_MIX.description": "Perform a [gold]Mix[/gold]. \nBoth ingredients are consumed and must be selected.",
+  "RIKKU-QUICK_MIX.title": "Quick Mix",
+
+  "RIKKU-GIL_EXPLOSION.title": "Gil Explosion",
+  "RIKKU-GIL_EXPLOSION.description": "Spend 10% of your [gold]Gold[/gold]. \nDeal {Multiplier:diff()}% of the [gold]Gold[/gold] spent as damage to ALL enemies.",
+
+  "RIKKU-PAID_PROTECTION.description": "Spend {GoldCost:diff()} [gold]Gold[/gold]. \nGain {Block:diff()} [gold]Block[/gold].",
+  "RIKKU-PAID_PROTECTION.title": "Paid Protection"
+}

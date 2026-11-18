@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b07scy6dmmsdf"
+path="res://.godot/imported/gameover (1).wav-0e8bed07bb17aa3ef1cd52cca227a90c.sample"
+
+[deps]
+
+source_file="res://Rikku/sounds/gameover (1).wav"
+dest_files=["res://.godot/imported/gameover (1).wav-0e8bed07bb17aa3ef1cd52cca227a90c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

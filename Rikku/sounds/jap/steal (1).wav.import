@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cqb8ptytcvgt0"
+path="res://.godot/imported/steal (1).wav-b154aab778f1324f6ef1d14a914f7610.sample"
+
+[deps]
+
+source_file="res://Rikku/sounds/jap/steal (1).wav"
+dest_files=["res://.godot/imported/steal (1).wav-b154aab778f1324f6ef1d14a914f7610.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

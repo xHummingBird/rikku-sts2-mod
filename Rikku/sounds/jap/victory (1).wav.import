@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bxds17hsqa226"
+path="res://.godot/imported/victory (1).wav-c7c1b88d99a34755981d64b509848e20.sample"
+
+[deps]
+
+source_file="res://Rikku/sounds/jap/victory (1).wav"
+dest_files=["res://.godot/imported/victory (1).wav-c7c1b88d99a34755981d64b509848e20.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,41 @@
+{
+  "RIKKU-GODHAND.description": "Gain 2 Potion slots. \n[gold]Mix[/gold] deal 25% more damage. \nThe first time you [gold]Steal[/gold] each combat, procure 2 random [gold]Mixable Potions[/gold].",
+  "RIKKU-GODHAND.flavor": "More pockets, bigger boom. What's not to love?",
+  "RIKKU-GODHAND.title": "Godhand",
+
+  "RIKKU-CLAW.description": "The first time you [gold]Steal[/gold] in a combat, procure a random [gold]Mixable Potion[/gold]. [gold]Overkill[/gold] enemies to gain better rewards.",
+  "RIKKU-CLAW.flavor": "",
+  "RIKKU-CLAW.title": "Claw",
+
+  "RIKKU-THIEFS_GLOVES.description": "Gain 50% additional [gold]Gold[/gold].",
+  "RIKKU-THIEFS_GLOVES.flavor": "A little extra gil never hurt anybody!",
+  "RIKKU-THIEFS_GLOVES.title": "Thief's Gloves",
+
+  "RIKKU-CHEMIST_GLOVES.description": "The first [gold]Potion[/gold] you use each combat is not consumed.",
+  "RIKKU-CHEMIST_GLOVES.flavor": "Always save a little something for later!",
+  "RIKKU-CHEMIST_GLOVES.title": "Chemist Gloves",
+
+  "RIKKU-GOLDEN_HAND.description": "At the start of combat, procure a random [gold]Mixable Potion[/gold].",
+  "RIKKU-GOLDEN_HAND.flavor": "Never show up empty-handed!",
+  "RIKKU-GOLDEN_HAND.title": "Golden Hand",
+
+  "RIKKU-THIEF_BANDANA.description": "At the end of combat, gain an additional Potion reward if you took no damage.",
+  "RIKKU-THIEF_BANDANA.flavor": "Can't catch what you can't hit!",
+  "RIKKU-THIEF_BANDANA.title": "Thief Bandana",
+
+  "RIKKU-NINJA_CLAW.description": "Whenever you [gold]Steal[/gold], steal 2 additional [gold]Gold[/gold].",
+  "RIKKU-NINJA_CLAW.flavor": "Quick hands make quick gil.",
+  "RIKKU-NINJA_CLAW.title": "Ninja Claw",
+
+  "RIKKU-SURVIVOR.description": "At the start of combat, gain 20 [gold]Overdrive[/gold].",
+  "RIKKU-SURVIVOR.flavor": "Always ready for whatever comes next.",
+  "RIKKU-SURVIVOR.title": "Survivor",
+
+  "RIKKU-ITEM_POUCH.description": "Gain 2 Potion slots.",
+  "RIKKU-ITEM_POUCH.flavor": "There's always room for a few more goodies!",
+  "RIKKU-ITEM_POUCH.title": "Item Pouch",
+  
+  "RIKKU-AL_BHED_GOGGLES.description": "[gold]Mixable Potions[/gold] deal 25% more damage.",
+  "RIKKU-AL_BHED_GOGGLES.flavor": "Everything looks more explosive through these!",
+  "RIKKU-AL_BHED_GOGGLES.title": "Al-Bhed Goggles"
+}

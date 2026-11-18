@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cv6hp45fll83s"
+path="res://.godot/imported/310 Crisis.mp3-10ca4dae4f7551f7c3d38ae994f678de.mp3str"
+
+[deps]
+
+source_file="res://Rikku/music/310 Crisis.mp3"
+dest_files=["res://.godot/imported/310 Crisis.mp3-10ca4dae4f7551f7c3d38ae994f678de.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

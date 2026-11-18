@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://va8ev21b6muj"
+path="res://.godot/imported/110 Victory!.mp3-0ddefcac0d8dda04b182feca5b4367d6.mp3str"
+
+[deps]
+
+source_file="res://Rikku/music/110 Victory!.mp3"
+dest_files=["res://.godot/imported/110 Victory!.mp3-0ddefcac0d8dda04b182feca5b4367d6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

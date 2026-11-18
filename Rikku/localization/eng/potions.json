@@ -1,0 +1,37 @@
+{
+  "RIKKU-ANTARCTIC_WIND.description": "Deal [blue]{Damage}[/blue] damage.",
+  "RIKKU-ANTARCTIC_WIND.title": "Antarctic Wind",
+
+  "RIKKU-BOMB_FRAGMENT.description": "Deal [blue]{Damage}[/blue] damage.",
+  "RIKKU-BOMB_FRAGMENT.title": "Bomb Fragment",
+
+  "RIKKU-FIRE_GEM.description": "Deal [blue]{Damage}[/blue] damage. Apply [blue]1[/blue] [gold]Vulnerable[/gold].",
+  "RIKKU-FIRE_GEM.title": "Fire Gem",
+  
+  "RIKKU-ICE_GEM.description": "Deal [blue]{Damage}[/blue] damage to ALL enemies.",
+  "RIKKU-ICE_GEM.title": "Ice Gem",
+  
+  "RIKKU-FISH_SCALE.description": "Deal [blue]{Damage}[/blue] damage.",
+  "RIKKU-FISH_SCALE.title": "Fish Scale",
+
+  "RIKKU-LIGHTNING_GEM.description": "Deal [blue]{Damage}[/blue] damage to a random enemy 4 times.",
+  "RIKKU-LIGHTNING_GEM.title": "Lightning Gem",
+
+  "RIKKU-ELECTRO_MARBLE.description": "Deal [blue]{Damage}[/blue] damage.",
+  "RIKKU-ELECTRO_MARBLE.title": "Electro Marble",
+  
+  "RIKKU-WATER_GEM.description": "Deal [blue]{Damage}[/blue] damage and apply 1 [gold]Weak[/gold] to ALL enemies",
+  "RIKKU-WATER_GEM.title": "Water Gem",
+
+  "RIKKU-FRAG_GRENADE.description": "Deal [blue]{Damage}[/blue] damage.",
+  "RIKKU-FRAG_GRENADE.title": "Frag Grenade",
+
+  "RIKKU-SUPREME_GEM.description": "Deal [blue]{Damage}[/blue] damage.",
+  "RIKKU-SUPREME_GEM.title": "Supreme Gem",
+
+  "RIKKU-STAR_CURTAIN.description": "Gain 8 [gold]Block[/gold]. Next turn, gain 8 [gold]Block[/gold].",
+  "RIKKU-STAR_CURTAIN.title": "Star Curtain",
+
+  "RIKKU-LIGHT_CURTAIN.description": "Gain 12 [gold]Block[/gold].",
+  "RIKKU-LIGHT_CURTAIN.title": "Light Curtain"
+}

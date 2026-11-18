@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c7n4e653ccuoq"
+path="res://.godot/imported/106 Hurry!!.mp3-e8ab4467d335c5360ec286569ac0c4db.mp3str"
+
+[deps]
+
+source_file="res://Rikku/music/106 Hurry!!.mp3"
+dest_files=["res://.godot/imported/106 Hurry!!.mp3-e8ab4467d335c5360ec286569ac0c4db.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dg0gf2b4rx75j"
+path="res://.godot/imported/attack (2).wav-e3120cdbef718c19c8e58be0b09376f1.sample"
+
+[deps]
+
+source_file="res://Rikku/sounds/attack (2).wav"
+dest_files=["res://.godot/imported/attack (2).wav-e3120cdbef718c19c8e58be0b09376f1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

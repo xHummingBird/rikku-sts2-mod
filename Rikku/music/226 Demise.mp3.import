@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://wm8nw7dlrcc2"
+path="res://.godot/imported/226 Demise.mp3-3d08fa42e79d4db8fc4cd9b1a1d99a08.mp3str"
+
+[deps]
+
+source_file="res://Rikku/music/226 Demise.mp3"
+dest_files=["res://.godot/imported/226 Demise.mp3-3d08fa42e79d4db8fc4cd9b1a1d99a08.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

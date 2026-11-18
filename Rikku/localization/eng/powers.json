@@ -1,0 +1,81 @@
+{
+  "RIKKU-STASH_POWER.description": "The next [gold]Potion[/gold] you use is not consumed.",
+  "RIKKU-STASH_POWER.smartDescription": "The next {Amount} {Amount:plural:[gold]Potion[/gold]|[gold]Potions[/gold]} you use {Amount:plural:is|are} not consumed.",
+  "RIKKU-STASH_POWER.title": "Stash",
+
+  "RIKKU-STOLEN_GOLD_POWER.description": "Tracks the amount of Gold stolen from this enemy.",
+  "RIKKU-STOLEN_GOLD_POWER.smartDescription": "Gold stolen: [gold]{Amount}[/gold].",
+  "RIKKU-STOLEN_GOLD_POWER.title": "Stolen Gold",
+
+  "RIKKU-OVERDRIVE_READY_POWER.description": "When [gold]Overdrive[/gold] reaches 100, add [gold]Mix[/gold] to your hand.",
+  "RIKKU-OVERDRIVE_READY_POWER.smartDescription": "You may now use [gold]Mix[/gold].",
+  "RIKKU-OVERDRIVE_READY_POWER.title": "Overdrive",
+
+  "RIKKU-LUCKY_GIRL_POWER.title": "Lucky Girl",
+  "RIKKU-LUCKY_GIRL_POWER.description": "Whenever you play a card with [gold]Steal[/gold], draw 1 card.",
+  "RIKKU-LUCKY_GIRL_POWER.smartDescription": "Whenever you play a card with [gold]Steal[/gold], draw {Amount} {Amount:plural:card|cards}.",
+
+  "RIKKU-MASTER_THIEF_POWER.title": "Master Thief",
+  "RIKKU-MASTER_THIEF_POWER.description": "At the end of combat, gain 1 additional Potion.",
+  "RIKKU-MASTER_THIEF_POWER.smartDescription": "At the end of combat, gain {Amount} additional {Amount:plural:Potion|Potions}.",
+
+  "RIKKU-GILLIONAIRE_POWER.title": "Gillionaire",
+  "RIKKU-GILLIONAIRE_POWER.description": "At the end of combat, gain 30 [gold]Gold[/gold].",
+  "RIKKU-GILLIONAIRE_POWER.smartDescription": "At the end of combat, gain [gold]{Amount} Gold[/gold].",
+
+  "RIKKU-STICKY_FINGERS_POWER.title": "Sticky Fingers",
+  "RIKKU-STICKY_FINGERS_POWER.description": "Whenever you [gold]Steal[/gold] from an enemy, deal 5 damage to it.",
+  "RIKKU-STICKY_FINGERS_POWER.smartDescription": "Whenever you [gold]Steal[/gold] from an enemy, deal {Amount} damage to it.",
+
+  "RIKKU-DRIVE_BOOST_POWER.title": "Drive Boost",
+  "RIKKU-DRIVE_BOOST_POWER.description": "At the start of each turn, gain 5 [gold]Overdrive[/gold].",
+  "RIKKU-DRIVE_BOOST_POWER.smartDescription": "At the start of each turn, gain {Amount} [gold]Overdrive[/gold].",
+
+  "RIKKU-ELEMENTALIST_POWER.title": "Elementalist",
+  "RIKKU-ELEMENTALIST_POWER.description": "[gold]Mixable Potions[/gold] deal 25% more damage.",
+  "RIKKU-ELEMENTALIST_POWER.smartDescription": "[gold]Mixable Potions[/gold] deal {Amount}% more damage.",
+
+  "RIKKU-CHEMIST_POWER.title": "Chemist",
+  "RIKKU-CHEMIST_POWER.description": "The first time you procure or use a Potion each turn, gain 1 {energyPrefix:energyIcons(1)}.",
+  "RIKKU-CHEMIST_POWER.smartDescription": "The first time you procure or use a Potion each turn, gain {Amount} {energyPrefix:energyIcons(1)}.",
+
+  "RIKKU-BANDIT_POWER.title": "Bandit",
+  "RIKKU-BANDIT_POWER.description": "At the start of each turn, gain 2 [gold]Gold[/gold].",
+  "RIKKU-BANDIT_POWER.smartDescription": "At the start of each turn, gain [gold]{Amount} Gold[/gold].",
+
+  "RIKKU-DAYLIGHT_ROBBERY_POWER.title": "Daylight Robbery",
+  "RIKKU-DAYLIGHT_ROBBERY_POWER.description": "Whenever you [gold]Steal[/gold], steal 1 additional [gold]Gold[/gold].",
+  "RIKKU-DAYLIGHT_ROBBERY_POWER.smartDescription": "Whenever you [gold]Steal[/gold], steal {Amount} additional [gold]Gold[/gold].",
+
+  "RIKKU-DOUBLE_DOSE_POWER.title": "Double Dose",
+  "RIKKU-DOUBLE_DOSE_POWER.description": "The first Potion you use each turn is used twice.",
+  "RIKKU-DOUBLE_DOSE_POWER.smartDescription": "The first {Amount} [gold]{Amount:plural:Potion|Potions}[/gold] you use each turn {Amount:plural:is|are} used twice.",
+
+  "RIKKU-DEEP_POCKETS_POWER.title": "Deep Pockets",
+  "RIKKU-DEEP_POCKETS_POWER.description": "Whenever you play a card with [gold]Steal[/gold], gain 1 [gold]Strength[/gold].",
+  "RIKKU-DEEP_POCKETS_POWER.smartDescription": "Whenever you play a card with [gold]Steal[/gold], gain {Amount} [gold]Strength[/gold].",
+
+  "RIKKU-STOCKPILE_POWER.title": "Stockpile",
+  "RIKKU-STOCKPILE_POWER.description": "Whenever you play a Power, procure a random [gold]Mixable Potion[/gold].",
+  "RIKKU-STOCKPILE_POWER.smartDescription": "Whenever you play a Power, procure {Amount} random [gold]Mixable {Amount:plural:Potion|Potions}[/gold].",
+
+  "RIKKU-EQUIVALENT_EXCHANGE_POWER.title": "Equivalent Exchange",
+  "RIKKU-EQUIVALENT_EXCHANGE_POWER.description": "At the end of combat, lose all your Potions.",
+  "RIKKU-EQUIVALENT_EXCHANGE_POWER.smartDescription": "At the end of combat, lose all your Potions.",
+
+  "RIKKU-OPPORTUNIST_POWER.title": "Opportunist",
+  "RIKKU-OPPORTUNIST_POWER.description": "Whenever you play a card with [gold]Steal[/gold] this turn, gain 3 [gold]Block[/gold].",
+  "RIKKU-OPPORTUNIST_POWER.smartDescription": "Whenever you play a card with [gold]Steal[/gold] this turn, gain {Amount} [gold]Block[/gold].",
+
+  "RIKKU-SLEIGHT_OF_HAND_POWER.title": "Sleight of Hand",
+  "RIKKU-SLEIGHT_OF_HAND_POWER.description": "After consuming your next Potion, procure a random [gold]Mixable Potion[/gold].",
+  "RIKKU-SLEIGHT_OF_HAND_POWER.smartDescription": "After consuming your next {Amount} {Amount:plural:Potion|Potions}, procure a random [gold]Mixable Potion[/gold] after each one.",
+
+  "RIKKU-SOUL_SWIPE_POWER.title": "Soul Swipe",
+  "RIKKU-SOUL_SWIPE_POWER.description": "You can no longer Heal from this enemy with [gold]Soul Swipe[/gold].",
+  "RIKKU-SOUL_SWIPE_POWER.smartDescription": "You can no longer Heal from this enemy with [gold]Soul Swipe[/gold].",
+
+  "RIKKU-LIGHTNING_BOLT_POWER.description": "Deal 8 damage to a random enemy at the start of your turn for 2 turns",
+  "RIKKU-LIGHTNING_BOLT_POWER.smartDescription": "Deal 8 damage to a random enemy at the start of your turn for {Amount} {Amount:plural:turn|turns}.",
+  "RIKKU-LIGHTNING_BOLT_POWER.title": "Lightning Bolt"
+}

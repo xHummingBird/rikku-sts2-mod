@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://h5w0f6hlv4ba"
+path="res://.godot/imported/mix (3).wav-ec1e489054dbc4e4baaddf3fb418280a.sample"
+
+[deps]
+
+source_file="res://Rikku/sounds/jap/mix (3).wav"
+dest_files=["res://.godot/imported/mix (3).wav-ec1e489054dbc4e4baaddf3fb418280a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

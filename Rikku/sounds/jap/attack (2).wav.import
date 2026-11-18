@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c5rplv3a0bakj"
+path="res://.godot/imported/attack (2).wav-ba812b805a0dfc71b71d7c0cf149f3b0.sample"
+
+[deps]
+
+source_file="res://Rikku/sounds/jap/attack (2).wav"
+dest_files=["res://.godot/imported/attack (2).wav-ba812b805a0dfc71b71d7c0cf149f3b0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://7e0qtftk0clw"
+path="res://.godot/imported/ice (3).wav-2622167f4c89196248fc816bdcf8756e.sample"
+
+[deps]
+
+source_file="res://Rikku/sounds/ice (3).wav"
+dest_files=["res://.godot/imported/ice (3).wav-2622167f4c89196248fc816bdcf8756e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

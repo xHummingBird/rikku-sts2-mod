@@ -1,0 +1,34 @@
+{
+  "RIKKU_OVERDRIVE.title": "Overdrive",
+  "RIKKU_OVERDRIVE.description": "At 100 Overdrive, add [gold]Mix[/gold] to your hand. \n\nGain 5 Overdrive at the start of your turn.\nGain 3 Overdrive whenever you play a card.\nGain 6 Overdrive whenever you play a [blue]Steal[/blue] card.\nGain 5 Overdrive whenever you use a Potion.",
+
+  "RIKKU_OVERKILL.title": "Overkill",
+  "RIKKU_OVERKILL.description": "When a killing blow deals damage equal to or greater than 20% of the target's Max HP, gain 10 additional Gold and 1 additional Potion at the end of combat. If the target was an Act Boss, gain an additional Relic. Only works on non-minion creatures.",
+
+  "RIKKU_MIX.title": "Mix",
+  "RIKKU_MIX.description": "Choose 2 Potions to Mix. The Primary determines the effect and only the Primary ingredient is consumed. Matching ingredients or an Uncommon Primary create a stronger Mix.",
+
+  "RIKKU_DISCARD_POTION.title": "Discard Potion",
+  "RIKKU_DISCARD_POTION.description": "You may discard a Potion of your choice to trigger this card's additional effect.",
+
+  "RIKKU_BURNING_SOUL.title": "Burning Soul",
+  "RIKKU_BURNING_SOUL.description": "{BombFragmentIcon} + Any: \nDeal 40 damage and apply 2 [gold]Vulnerable[/gold] to ALL enemies.\n{BombFragmentIcon} + {BombFragmentIcon} OR {FireGemIcon} + Any: \nDeal 51 damage and apply 3 [gold]Vulnerable[/gold] to ALL enemies.",
+
+  "RIKKU_WINTER_STORM.title": "Winter Storm",
+  "RIKKU_WINTER_STORM.description": "{AntarcticWindIcon} + Any: \nDeal 35 damage to ALL enemies. Gain 12 [gold]Block[/gold] now and next turn.\n{AntarcticWindIcon} + {AntarcticWindIcon} OR {IceGemIcon} + Any: \nDeal 45 damage to ALL enemies. Gain 16 [gold]Block[/gold] now and next turn.",
+
+  "RIKKU_LIGHTNING_BOLT.title": "Lightning Bolt",
+  "RIKKU_LIGHTNING_BOLT.description": "{ElectroMarbleIcon} + Any: \nDeal 11 damage to random enemies 4 times. For 2 turns, deal 8 damage to a random enemy at the start of your turn.\n{ElectroMarbleIcon} + {ElectroMarbleIcon} OR {LightningGemIcon} + Any: \nHit 5 times and lasts 3 turns instead.",
+
+  "RIKKU_TIDAL_WAVE.title": "Tidal Wave",
+  "RIKKU_TIDAL_WAVE.description": "{FishScaleIcon} + Any: \nDeal 40 damage and apply 2 [gold]Weak[/gold] to ALL enemies.\n{FishScaleIcon} + {FishScaleIcon} OR {WaterGemIcon} + Any: \nDeal 51 damage and apply 3 [gold]Weak[/gold] to ALL enemies.",
+
+  "RIKKU_CHAOS_GRENADE.title": "Chaos Grenade",
+  "RIKKU_CHAOS_GRENADE.description": "{FragGrenadeIcon} + Any: \nDeal 38 damage to ALL enemies.\n{FragGrenadeIcon} + {FragGrenadeIcon} OR {SupremeGemIcon} + Any: \nDeal 48 damage to ALL enemies.\n\nDeals 50% more damage if there is only 1 enemy.",
+
+  "RIKKU_MIGHTY_WALL.title": "Mighty Wall",
+  "RIKKU_MIGHTY_WALL.description": "{LightCurtainIcon} + Any: \nALL players gain 1 [gold]Intangible[/gold].\n{LightCurtainIcon} + {LightCurtainIcon} OR {StarCurtainIcon} + Any: \nALL players gain 2 [gold]Intangible[/gold].",
+
+  "RIKKU_HAZARDOUS_SHELL.title": "Hazardous Shell",
+  "RIKKU_HAZARDOUS_SHELL.description": "No ingredients: \nDeal 28 damage to ALL enemies.\nAny other ingredient combination: \nDeal 38 damage to ALL enemies."
+}
